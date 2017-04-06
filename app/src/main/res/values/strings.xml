@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarTrak</string>
+    <string name="title_activity_car_locator">Car Tracker</string>
+    <string name="alert_dialog_title">Tracker Enabled Bluetooth Devices</string>
+</resources>
